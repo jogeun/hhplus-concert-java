@@ -28,7 +28,7 @@
 ---
 
 ## 시퀀스 다이어그램
-- [잔액 충전 및 조회 API](docs/diagram/balance-charge.md)
+- [잔액 충전 및 조회 API](concert/docs/diagram/balance-charge.md)
 
 - [상품 조회 API](docs/diagram/products.md)
 
