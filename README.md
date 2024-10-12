@@ -22,7 +22,7 @@
 
 
 ## 마일스톤
-- [md 마일스톤](docs/milestone/milestone.md)
+- [md 마일스톤](concert/docs/milestone/milestone.md)
 
 
 ---
@@ -45,11 +45,11 @@
 
 
 ## 플로우 차트
-- [예약 플로우차트](docs/flowchart/reserve-concert.md)
+- [예약 플로우차트](concert/docs/flowchart/reserve-concert.md)
 
 
 ---
 
 
 ## ERD
-- [콘서트서비스 erd](docs/erd.md)
+- [콘서트서비스 erd](concert/docs/erd.md)
