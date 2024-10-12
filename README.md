@@ -28,17 +28,17 @@
 ---
 
 ## 시퀀스 다이어그램
-- [잔액 충전](docs/diagram/charge-money.md)
+- [잔액 충전](concert/docs/diagram/charge-money.md)
 
-- [잔액 조회](docs/diagram/search-money.md)
+- [잔액 조회](concert/docs/diagram/search-money.md)
 
-- [콘서트 날짜 조회](docs/diagram/search-concert-date.md)
+- [콘서트 날짜 조회](concert/docs/diagram/search-concert-date.md)
 
-- [콘서트 좌석 조회](docs/diagram/search-concert-seat.md)
+- [콘서트 좌석 조회](concert/docs/diagram/search-concert-seat.md)
   
-- [잔액 조회](docs/diagram/search-money.md)
+- [잔액 조회](concert/docs/diagram/search-money.md)
 
-- [토큰 대기](docs/diagram/user-wait-token.md)
+- [토큰 대기](concert/docs/diagram/user-wait-token.md)
 
 
 --- 
